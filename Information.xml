@@ -1,0 +1,28 @@
+<Information information="Work group">
+  <contacts>
+    <contact>
+      <name>Vasily</name>
+      <surname>Pupkin</surname>
+      <hp>
+        <number>80172293255</number>
+        <city>Minsk</city>
+      </hp>
+      <mp>
+        <number>+375296669777</number>
+        <operator>MTS</operator>
+      </mp>
+    </contact>
+    <contact>
+      <name>Ivan</name>
+      <surname>Ivanov</surname>
+      <hp>
+        <number>80172293255</number>
+        <city>Minsk</city>
+      </hp>
+      <mp>
+        <number>+375296669777</number>
+        <operator>MTS</operator>
+      </mp>
+    </contact>
+  </contacts>
+</Information>
